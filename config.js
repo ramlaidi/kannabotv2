@@ -60,17 +60,17 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '+63 981 147 4326'
-global.nomorown = '+27 69 257 4469'
+global.nomorown = '27692574469'
 global.namebot = 'San BOT'
 global.nameown = '𝐈𝐑𝐒𝐀𝐍 𝐆𝐀𝐍𝐙あ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['+27 69 257 4469'],
-  ['+27 69 257 4469'],
-  ['+27 69 257 4469'],
-  ['+27 69 257 4469', '𝐈𝐑𝐒𝐀𝐍 𝐆𝐀𝐍𝐙あ', true]
+  ['27 69 257 4469'],
+  ['27 69 257 4469'],
+  ['27 69 257 4469'],
+  ['27 69 257 4469', '𝐈𝐑𝐒𝐀𝐍 𝐆𝐀𝐍𝐙あ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
