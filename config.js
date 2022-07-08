@@ -44,10 +44,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = '-'
+global.sig = 'https://rtyvv.com'
 global.sgh = 'https://github.com/ramlaidi'
-global.sgc = '-'
-global.sdc = '-'
+global.sgc = 'https://rtyvv.com'
+global.sdc = 'https://rtyvv.com'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
@@ -68,9 +68,9 @@ global.nameown = '𝐈𝐑𝐒𝐀𝐍 𝐆𝐀𝐍𝐙あ'
 /*============== STAFF ==============*/
 global.owner = [
   ['+27 69 257 4469'],
-  ['6287892711054'],
-  ['6281398750388'],
-  ['+27 69 257 4469', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['+27 69 257 4469'],
+  ['+27 69 257 4469'],
+  ['+27 69 257 4469', '𝐈𝐑𝐒𝐀𝐍 𝐆𝐀𝐍𝐙あ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
